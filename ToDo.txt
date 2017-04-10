@@ -1,4 +1,5 @@
 - Introduce color gradients.
+- Add more test images from MandelbrotRend_2
 More Distant Goals:
 - Make this into a more general purpose graphic generating program
 	which allows generates an image based on a user's function.
