@@ -1,0 +1,4 @@
+- Introduce color gradients.
+More Distant Goals:
+- Make this into a more general purpose graphic generating program
+	which allows generates an image based on a user's function.
